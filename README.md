@@ -5,4 +5,3 @@
 動作環境：Google Cloud Platform(Big query)\
 使用言語：SQL\
 可視化ツール:Looker Studio\
-レポートURL：https://lookerstudio.google.com/reporting/4638b3ac-ed3e-4d76-aae3-530e25f7a887/page/p_7i1g5gc3fd\
